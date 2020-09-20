@@ -1,5 +1,5 @@
 {
-  "name": "pdf-reader",
+  "name": "@vue/cli-pdf-reader",
   "version": "0.1.0",
   "private": true,
   "scripts": {
